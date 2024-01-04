@@ -31,7 +31,7 @@ public class AppRunner {
 
         TicketController ticketController = new TicketController(ticketService);
 
-//        IssueTicketRequest request = new IssueTicketRequest(VehicleType.FOUR_WHEELER, "KA-02, MB-1234", "Keerhti", gateId, parkingLotId);
+//        IssueTicketRequest request = new IssueTicketRequest(VehicleType.FOUR_WHEELER, "TN-07, MB-1234", "Hemanathan", gateId, parkingLotId);
 //        ticketController.issueTicket(request);
     }
 }
